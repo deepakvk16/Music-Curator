@@ -1,4 +1,4 @@
-# Simple Flask Music Streaming App 
+Music Curator
 
 A simple Flask app for streaming music
 
